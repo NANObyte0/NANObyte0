@@ -12,13 +12,13 @@
 
 - 🌍Profile [https://guns.lol/nano_0](https://guns.lol/nano_0)
 
-- 💬 About **I’m a Penetration Tester and Backend Developer using Flask. I enjoy learning and practicing web app vulnerability testing, and building simple projects to improve my skills in cybersecurity and programming.**
+- 💬  **I’m a Penetration Tester and Backend Developer using Flask. I learning and practicing web app vulnerability testing, and building  projects to improve my skills in cybersecurity and programming.**
 
 - 📫 How to reach me **nano246812@gmail.com**
 
 - 📄 Know about my experiences [Im internship in CodeAlpha as Cybersecurity](Im internship in CodeAlpha as Cybersecurity)
 
-- ⚡ Fun fact **Keep Going**
+- ⚡ Fun Fact **Keep Going**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
