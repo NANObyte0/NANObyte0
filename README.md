@@ -1,4 +1,4 @@
-<img src="https://github.com/NANObyte0/Profile/blob/main/J4o.gif" alt="Logo" width="900"/>
+<img src="https://github.com/NANObyte0/NANObyte0/blob/main/giphy.gif" alt="Logo" width="900"/>
 
 <h1 align="center">Hi 👋, I'm NANO</h1>
 <h3 align="center">Penetration Tester & Backend Developer specializing in Flask-based web applications.</h3>
