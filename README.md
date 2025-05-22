@@ -62,8 +62,3 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nanobyte0&show_icons=true&locale=en&layout=compact" alt="nanobyte0" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nanobyte0&show_icons=true&locale=en" alt="nanobyte0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nanobyte0&" alt="nanobyte0" /></p>
